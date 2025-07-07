@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "L4.html#course-content",
+    "href": "L4.html#course-content",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Course Content",
+    "text": "Course Content\n\n\n\n\n\n\nPython (Cambridge Spark focuses on the use of Python)1\nData privacy, ethics and regulations\nData visualisations (mainly done in Python)\nPower BI & Tableau (optional)\nDatabases & SQL2\n\nThough it is not actually essenstial to use it in your projects.The SQL part is really just the SQLite Python library"
+  },
+  {
+    "objectID": "L4.html#course-content-continued",
+    "href": "L4.html#course-content-continued",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Course Content (continued)",
+    "text": "Course Content (continued)\n\n\nWhy data science is good for businesses\nMaths for data science\nTime series analysis\nDescriptive, Predictive and Prescriptive analytics\n\nInferential analysis\n\nIntroduction to machine learning\n\nPredictive analysis e.g. forecasting and categorization\n\nText-mining, JSON and APIs"
+  },
+  {
+    "objectID": "L4.html#knowledge-skills-and-behaviours-ksbs",
+    "href": "L4.html#knowledge-skills-and-behaviours-ksbs",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Knowledge, Skills and Behaviours (KSBs)",
+    "text": "Knowledge, Skills and Behaviours (KSBs)\n\nTwo separate sets: one set has to be demonstrated across your portfolio, one has to be demonstrated during your EPA project\nKnowledge: current legislation, data types, principles of statistics & different types of analytics\nSkills: apply statistical methodologies, convert data into visualisations, assess the impact of user experience\nBehaviours: demonstrate initiative and resilience, work independently and collaboratively"
+  },
+  {
+    "objectID": "L4.html#the-data-analysis-life-cycle",
+    "href": "L4.html#the-data-analysis-life-cycle",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "The Data Analysis Life Cycle",
+    "text": "The Data Analysis Life Cycle"
+  },
+  {
+    "objectID": "L4.html#timeline-commitment",
+    "href": "L4.html#timeline-commitment",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Timeline & Commitment",
+    "text": "Timeline & Commitment\n\nApproximately 16 months from the introductory webinar to the End Point Assessment\nTypically 3 projects that form a portfolio of work + 1 End Point Assessment project\n“Off The Job” hours: minimum 6 hours per week.\nThe End Point Assessment\n\nA professional discussion focusing on your portfolio\nA presentation on your End Point Assessment project\nQuestions about your End Point Assessment project"
+  },
+  {
+    "objectID": "L4.html#projects-that-i-undertook",
+    "href": "L4.html#projects-that-i-undertook",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Projects that I undertook",
+    "text": "Projects that I undertook\n\nAutomation of data processing for the Non-Bedded Community Modelling Tool\nImproving visualisations for the HIOW Mental Health S136 report\nExploration of forecasting methods applied to cancer waiting times data\nUsing regression to predict improvement in Mental Health PROMs scores\nInvestigating the relationship between health inequalities factors on Adult Social Care waiting times, and those waiting times on Emergency Department attendances"
+  },
+  {
+    "objectID": "L4.html#project-outputs",
+    "href": "L4.html#project-outputs",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Project outputs",
+    "text": "Project outputs\n\nProject 1Project 2Project 3Project 4EPA Project\n\n\n\n\n\nCommunity data processing automation\n\n\n\n\n\n\n\nImproving S136 visualisations\n\n\n\n\n\n\n\nExploring forecasting methods\n\n\n\n\n\n\n\nRegression output\n\n\n\n\n\n\n\nAdult Social Care deep-dive. Custom chart created in Python"
+  },
+  {
+    "objectID": "L4.html#what-i-have-done-since",
+    "href": "L4.html#what-i-have-done-since",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "What I have done since",
+    "text": "What I have done since\n\nContributed to the running of Code Club\nDeveloped a Python script that searches Outlook and downloads attachments\nSupported testing Fabric as a platform for hosting data science projects by creating test machine learning workflows\nWrote Python webscraping and data concatenation scripts to speed up data processing on a number of projects.\nOverlaid Fingertips data onto maps to support preliminary investigations for a Transformation & Consultancy project."
+  },
+  {
+    "objectID": "L4.html#reflections",
+    "href": "L4.html#reflections",
+    "title": "L4 Data Analysis Apprenticeship with Cambridge Spark",
+    "section": "Reflections",
+    "text": "Reflections\n\nKeep the Data Analysis Life Cycle in mind for all your projects\nHave the list of KSBs open when you are scoping and writing up your projects\nStay focused on the STAR method when writing up your portfolio projects\n\nSituation\nTask\nAction\nResult"
+  }
+]

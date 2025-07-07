@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  render: ["*.qmd"]
+
+format: 
+  revealjs:
+    menu: true
+    controls: true
+    section-divs: true
+    preview-links: true
+    embed-resources: true
+    transition: slide
+    background-transition: fade
+    navigation-mode: linear
+    email-obfuscation: javascript
+    theme: theme.scss
+    footer: '**Ed Chick //** Data Analysis Apprenticeship **//** 2025-07-07'
+    progress: true
+    multiplex: false
+    scrollable: false
+    hide-inactive-cursor: true
+    highlight-style: printing
+    pause: true
+    fig-width: 6
+    fig-height: 7
+    fig-align: center
+
+editor: source
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+
+code-link: true
+
+title-slide-attributes:
+    data-background-image: "images/logo.jpg"
+    data-background-position: "right 5% bottom 5%"
+    data-background-size: "22%"
+    data-background-opacity: "1"
+
+from: markdown+emoji
+

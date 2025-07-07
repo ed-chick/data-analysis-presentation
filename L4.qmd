@@ -1,0 +1,131 @@
+---
+title: "L4 Data Analysis Apprenticeship with Cambridge Spark"
+author: "Edward Chick"
+format:
+  revealjs:
+    link-external-newwindow: true
+---
+
+## Course Content
+
+![](images/CS-Logo_SCW_blue.png){fig-align="center"}
+
+- Python (Cambridge Spark focuses on the use of Python)^[Though it is not actually essenstial to use it in your projects.]
+- Data privacy, ethics and regulations
+- Data visualisations (mainly done in Python)
+- Power BI & Tableau (optional)
+- Databases & SQL^[The SQL part is really just the SQLite Python library]
+
+---
+
+## Course Content (continued)
+
+![](images/CS-Logo_SCW_blue.png){fig-align="center"}
+
+- Why data science is good for businesses
+- Maths for data science
+- Time series analysis
+- Descriptive, Predictive and Prescriptive analytics
+    - Inferential analysis
+- Introduction to machine learning
+    - Predictive analysis e.g. forecasting and categorization
+- Text-mining, JSON and APIs
+
+---
+
+## Knowledge, Skills and Behaviours (KSBs)
+
+- Two separate sets: one set has to be demonstrated across your portfolio, one has to be demonstrated during your EPA project
+- **Knowledge**: current legislation, data types, principles of statistics & different types of analytics
+- **Skills**: apply statistical methodologies, convert data into visualisations, assess the impact of user experience
+- **Behaviours**: demonstrate initiative and resilience, work independently and collaboratively
+
+---
+
+![](images/ksb_explanation.png){fig-align="center"}
+
+---
+
+## The Data Analysis Life Cycle
+
+![](images/data_analysis_life_cycle.png){fig-align="center" width=60% height=60%}
+
+---
+
+## Timeline & Commitment
+
+- Approximately 16 months from the introductory webinar to the End Point Assessment
+- Typically 3 projects that form a portfolio of work + 1 End Point Assessment project
+- "Off The Job" hours: minimum 6 hours per week.
+- The End Point Assessment
+    - A professional discussion focusing on your portfolio
+    - A presentation on your End Point Assessment project
+    - Questions about your End Point Assessment project
+
+---
+
+## Projects that I undertook
+
+- Automation of data processing for the Non-Bedded Community Modelling Tool
+- Improving visualisations for the HIOW Mental Health S136 report
+- Exploration of forecasting methods applied to cancer waiting times data
+- Using regression to predict improvement in Mental Health PROMs scores
+- Investigating the relationship between health inequalities factors on Adult Social Care waiting times, and those waiting times on Emergency Department attendances
+
+---
+
+## Project outputs{.scrollable}
+
+:::{.panel-tabset}
+
+### Project 1
+
+![Community data processing automation](images/project1.png){fig-align="center"}
+
+### Project 2
+
+![Improving S136 visualisations](images/project2.png){fig-align="center"}
+
+### Project 3
+
+![Exploring forecasting methods](images/project3.png){fig-align="center"}
+
+### Project 4
+
+![Regression output](images/project4.png){fig-align="center"}
+
+### EPA Project
+
+![Adult Social Care deep-dive. Custom chart created in Python](images/projectEPA.png){fig-align="center"}
+
+:::
+
+---
+
+## What I have done since
+
+- Contributed to the running of Code Club
+- Developed a Python script that searches Outlook and downloads attachments
+- Supported testing Fabric as a platform for hosting data science projects by creating test machine learning workflows
+- Wrote Python webscraping and data concatenation scripts to speed up data processing on a number of projects.
+- Overlaid Fingertips data onto maps to support preliminary investigations for a Transformation & Consultancy project.
+
+## Reflections
+
+- Keep the Data Analysis Life Cycle in mind for all your projects
+- Have the list of KSBs open when you are scoping and writing up your projects
+- Stay focused on the STAR method when writing up your portfolio projects
+    - Situation
+    - Task
+    - Action
+    - Result
+
+
+# Questions?
+
+# Quarto
+An open-source scientific and technical publishing system
+![](images/quarto.png){width=320 height=77}
+
+[https://quarto.org/](https://quarto.org/)
+
