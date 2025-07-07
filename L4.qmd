@@ -8,8 +8,6 @@ format:
 
 ## Course Content
 
-![](images/CS-Logo_SCW_blue.png){width=320 height=77}
-
 - Python (Cambridge Spark focuses on the use of Python)^[Though it is not actually essenstial to use it in your projects.]
 - Data privacy, ethics and regulations
 - Data visualisations (mainly done in Python)
@@ -19,8 +17,6 @@ format:
 ---
 
 ## Course Content (continued)
-
-![](images/CS-Logo_SCW_blue.png){width=320 height=77}
 
 - Why data science is good for businesses
 - Maths for data science
@@ -122,6 +118,14 @@ format:
 
 
 # Questions?
+
+---
+
+![](images/CS-Logo_SCW_blue.png){fig-align="center"}
+
+[Website](https://www.cambridgespark.com/)
+
+---
 
 # Quarto
 An open-source scientific and technical publishing system
